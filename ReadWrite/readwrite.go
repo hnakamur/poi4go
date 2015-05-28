@@ -17,7 +17,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"poi4go/poifs"
+
+	"github.com/naqvis/poi4go/poifs"
 )
 
 func main() {

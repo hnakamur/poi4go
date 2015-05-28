@@ -19,9 +19,10 @@ import (
 	"io"
 	"os"
 	"path"
-	"poi4go/poifs"
 	"strings"
 	"unicode"
+
+	"github.com/naqvis/poi4go/poifs"
 )
 
 func main() {
